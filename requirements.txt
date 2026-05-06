@@ -1,0 +1,4 @@
+requests>=2.28.0
+networkx>=3.0
+alpaca-py>=0.8.0
+jupyter>=1.0.0
